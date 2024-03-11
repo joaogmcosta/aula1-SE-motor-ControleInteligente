@@ -20,7 +20,7 @@ campo.innerHTML = texto;
 
 //Função que exibe a mensagem inicial do Jogo
 function mensagemInicial(params) {
-    escreverTextoNaTela('h1', 'Bem-Vindo(a) ao Jogo do Número Secreto');
+    escreverTextoNaTela('h1', 'Bem-Vindo ao Jogo do Número Secreto');
     escreverTextoNaTela('p', 'Escolha um número entre 1 e 10');
 }
 
