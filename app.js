@@ -21,7 +21,7 @@ campo.innerHTML = texto;
 //Função que exibe a mensagem inicial do Jogo
 function mensagemInicial(params) {
     escreverTextoNaTela('h1', 'Bem-Vindo ao Jogo do Número Secreto');
-    escreverTextoNaTela('p', 'Escolha um número entre 1 e 10');
+    escreverTextoNaTela('p', 'Escolha apenas um número entre 1 e 10');
 }
 
 //Função que gera um numero aleatório
